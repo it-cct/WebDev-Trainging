@@ -1,0 +1,26 @@
+.h1{
+    font-size: 5rem;
+    display:flex; 
+    justify-content:center;
+    color: blue;
+}
+
+img{
+    
+    height: 39rem;
+    width: 90%;
+}
+.txt{
+    
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem ;
+
+}
+.text{
+    width: 25%;
+    
+}
+.belo{
+    display: flex;
+}
